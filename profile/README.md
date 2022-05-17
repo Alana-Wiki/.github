@@ -1,3 +1,3 @@
 # Welcome to Alana Wiki
 
-Content coming soon
+Alana Wiki is a platform designed to help manage and organise documentations in collaborative manner
